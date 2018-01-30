@@ -8,11 +8,6 @@ A class project for a MMORPG database management system for a fictitious game ca
 This was my first attempt at designing a realtional database.  The idea for the database was born from asking myself how a company might maintain data for their online player base.      
 
 ---
-## Screenshots
-
-
-
----
 ## Technologies
 * MS Access
 * [Draw.io](https://www.draw.io/)
@@ -26,7 +21,6 @@ This was my first attempt at designing a realtional database.  The idea for the 
 * Table relationships
 * Forms
 * Reports
-
 
 ---
 ## Logo
