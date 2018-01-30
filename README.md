@@ -5,7 +5,7 @@ A class project for a MMORPG database management system for a fictitious game ca
 
 ---
 ## Motivation                                                            
-This was my first attempt at designing a realtional database.  The idea for the database was born from asking myself how a company might maintain data for their online player base.      
+This was my first attempt at designing a relational database.  The idea for the database was born from asking myself how a company might maintain data for their online player base.      
 
 ---
 ## Technologies
