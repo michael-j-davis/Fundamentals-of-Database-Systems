@@ -1,7 +1,7 @@
 # CS 251 - Fundamentals of Database Systems
 
 ## Description
-A class project for a MMORPG database management system for a fictitious game called GRYMWAR Online.
+A class project for a MMORPG database management system for a fictitious game called GRYMWAR Online.  **NOTE**:  The file was too large for conversion to PDF.  
 
 ---
 ## Motivation                                                            
